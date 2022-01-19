@@ -1,2 +1,22 @@
-# TuringsCat
-Turingscat's personal homepage
+# TuringsCat 2022 寒假计划
+
+## 学业任务
+* 《非线性发展方程的有限差分方法》.第五章.薛定谔方程的差分方法.
+* 掌握 FEALPy 时间方程的求解算例
+
+## 科研
+* 完成 DEEPXde 短期课程学习
+* 论文完成至开题阶段(分数阶、时间)
+
+## 技能提升
+* Scipy
+* Numpy
+* 爬虫
+* 用 Python 让 Excel 飞起来
+* 熟练掌握 Vim 编辑器
+* 入门 GitHub
+* 完成个人网站搭建
+
+## 其他
+* 反复观看 @王木头学科学 系列课程
+* 王者荣耀达到最强王者段位
